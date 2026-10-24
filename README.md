@@ -27,6 +27,7 @@ A continuación tienes el **Glosario Técnico de Machine Learning**, organizado 
 * **Semilla Aleatoria (*Random State / Seed*):** Número fijado como referencia para inicializar el generador de números pseudoaleatorios del sistema, asegurando que la división de datos o inicialización de pesos sea siempre idéntica.  
 * **Tolerancia de Parada Rápida (tol):** Criterio de parada (*stopping criteria*) que finaliza el entrenamiento prematuramente si la mejora en la función de pérdida entre épocas consecutivas es menor al valor umbral fijado, evitando ejecuciones infinitas.
 
+
 ### **Términos adicionales recomendados para sumar:**
 
 1. **Overfitting (Sobreajuste):** Ocurre cuando el modelo memoriza el conjunto de entrenamiento y pierde capacidad de generalizar con datos nuevos de testeo.  
